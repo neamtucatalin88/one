@@ -1,5 +1,5 @@
 1
-kt
+ktg
 erg
 das
 ef
